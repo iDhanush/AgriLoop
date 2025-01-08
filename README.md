@@ -1,2 +1,2 @@
 # AgriLoop
-Hackatly 2025
+Hackatly 2025 Project
